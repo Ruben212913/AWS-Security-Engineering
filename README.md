@@ -1,14 +1,14 @@
 # AWS Security Engineering Portfolio
 
-Repositorio centralizado de arquitectura de seguridad, cumplimiento normativo y hardening de infraestructura en Amazon Web Services (AWS).
+Centralized repository for cloud security architecture, compliance enforcement, and infrastructure hardening in Amazon Web Services (AWS).
 
-## Portafolio de Proyectos
+## Portfolio Projects
 
-| Proyecto | Descripción | Estado |
+| Project | Description | Status |
 | :--- | :--- | :--- |
-| **[Project 01: Cloud Identity & S3 Auditor](./Project-01-Cloud-Identity-Auditor/)** | Auditoría automatizada de políticas IAM, privilegios excesivos y exposición de buckets S3 mediante Python/Boto3. | Completado ✅ |
+| **[Project 01: Cloud Identity & S3 Auditor](./Project-01-Cloud-Identity-Auditor/)** | Automated auditing of IAM policies, excessive privileges, and S3 bucket public exposure using Python/Boto3. | Completed ✅ |
 
-## Estándares de Seguridad
-- Principio de menor privilegio (PoLP) en políticas IAM.
-- Prevención de exposición de datos sensibles en almacenamiento S3.
-- Automatización de reportes de cumplimiento en formatos estándar (JSON).
+## Security Standards
+- Principle of Least Privilege (PoLP) enforced across IAM permission boundaries.
+- Prevention of sensitive data exposure in cloud storage assets.
+- Automated compliance reporting aligned with industry standards.
