@@ -1,0 +1,17 @@
+{
+    "audit_target": "http://localhost:4566",
+    "iam_findings": [
+        {
+            "resource": "Arquitecto-Cloud",
+            "type": "IAM_USER",
+            "risk_level": "HIGH"
+        }
+    ],
+    "s3_findings": [
+        {
+            "resource": "banco-datos-seguro",
+            "type": "S3_BUCKET",
+            "status": "EXAMINED_LOCALLY"
+        }
+    ]
+}
